@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/CreditApplication/obj/Debug
+/CreditApplication.Tests/bin/Debug
+/CreditApplication.Tests/obj/Debug
+/CreditApplication/bin
